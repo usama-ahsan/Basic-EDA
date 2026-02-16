@@ -13,3 +13,5 @@ df.info()
 df.describe()
 
 df.groupby('sex')['age']
+
+df.age>10
